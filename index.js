@@ -29,7 +29,7 @@ const questions = [
     type: "list",
     message: "What is your License?",
     name: "license",
-    choices: ["test", 'test2', 'test3', 'None']
+    choices: ["MIT License", 'Apache License 2.0', 'Boost Software License 1.0', 'None']
   },
   {
     type: "input",
