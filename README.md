@@ -5,4 +5,4 @@ Created a generator that creates a README file after answering a set of question
 
 ## Usage
 
-![This includes node index.js](./nodeindexjs.png)
+![This includes node index.js](./nodeindexjs2.png)
