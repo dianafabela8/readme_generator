@@ -1,8 +1,8 @@
-# 1
+# README Generator
 
   ## Description
   
-  1
+  Generates a new ReadME
   
   ## Table of Contents 
   
@@ -11,25 +11,27 @@
   - [Contribution Guidelines](#contribution_guidelines)
   - [License](#license)
   - [Tests](#tests)
+  - [Questions](#questions)
   
   ## Installation
   
-  1
+  test
   
   ## Usage
   
-  1
+  test
   
   ## Contribution Guidelines
   
-  1
+  test
   
   
   ## License 
-  test2
+  MIT License
+  
   
   ## Badges
-  
+  MIT License  
   
   
   ## Features
@@ -38,6 +40,11 @@
   
   ## Tests
   
-  1
+  test
+
+  ## Questions
   
+  dianafabela8
+  fabeladiana.df@gmail.com
+  none
   

@@ -41,6 +41,7 @@ function generateMarkdown(data) {
   - [Contribution Guidelines](#contribution_guidelines)
   ${renderLicenseLink(data.license)}
   - [Tests](#tests)
+  - [Questions](#questions)
   
   ## Installation
   
@@ -66,7 +67,12 @@ function generateMarkdown(data) {
   ## Tests
   
   ${data.test}
+
+  ## Questions
   
+  ${data.username}
+  ${data.email}
+  ${data.question}
   
 `;
 }
