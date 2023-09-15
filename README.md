@@ -5,4 +5,9 @@ Created a generator that creates a README file after answering a set of question
 
 ## Usage
 
-![This includes node index.js](./nodeindexjs2.png)
+![This includes node index.js](./nodeindexjs.gif)
+
+https://drive.google.com/file/d/1hsqIZB9XJmKgSSC1-2nz7F-LpgUBsZaD/preview
+
+
+
